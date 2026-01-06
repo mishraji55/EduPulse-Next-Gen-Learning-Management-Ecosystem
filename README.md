@@ -1,5 +1,5 @@
 # EduPulse AI - Production-Grade Classroom Monitoring System
-
+[LIVE DEPLOYMENT LINK](https://edu-pulse-next-gen-learning-managem.vercel.app/)
 A comprehensive, role-based React application for advanced classroom monitoring with real-time analytics and AI-powered insights.
 
 ## 🎯 Features
